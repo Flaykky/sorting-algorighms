@@ -59,6 +59,8 @@ gcc -o quicksort_visual main.c
     - Prints each element as a row of `□` characters, with the number of squares equal to the element's value.
   - Flushes the output buffer to ensure immediate display.
 
+
+
 #### `display_highlight(int i, int j)`
 - **Purpose**: Displays the array with elements at indices `i` and `j` highlighted (underlined).
 - **Behavior**:
@@ -94,6 +96,13 @@ gcc -o quicksort_visual main.c
   - Displays the initial array state.
   - Calls `quicksort(0, n-1)` to sort the array.
   - Displays the final sorted array and prints "Sorting complete."
+
+
+## sorting algorithms: 
+- quick sort
+- bubble sort
+- merge sort
+
 
 ## Usage Example
 ### Input
