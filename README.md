@@ -1,4 +1,4 @@
-# Quicksort Visualization Documentation
+# sort Visualization Documentation
 
 ## Overview
 This C program implements a visual demonstration of the Quicksort algorithm. It allows users to visualize the sorting process either as a numerical list or as a bar graph representation, with highlighted elements to show comparisons and swaps. The program supports both random and manual input and includes a delay to make the visualization process observable.
