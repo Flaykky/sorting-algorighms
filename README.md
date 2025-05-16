@@ -102,7 +102,7 @@ gcc -o quicksort_visual main.c
 - quick sort
 - bubble sort
 - merge sort
-
+- buzu sort (comming soon)
 
 ## Usage Example
 ### Input
