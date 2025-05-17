@@ -174,3 +174,7 @@ Sorting complete.
 
 ## Conclusion
 This program provides an educational tool for visualizing the Quicksort algorithm. Its modular design and clear visualization make it suitable for learning about sorting algorithms, while its limitations highlight areas for further enhancement.
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) file for details.
