@@ -155,8 +155,11 @@ mode: bars
 □□□□
 □□□□□
 
+
 Sorting complete.
 ```
+
+(there is a unicode symbols)
 
 ## Limitations
 - **Terminal Dependency**: Requires a terminal that supports ANSI escape codes. Some terminals (e.g., Windows CMD) may not render underlining or Unicode characters correctly.
